@@ -2,4 +2,6 @@
 
 Segundo arquivo do curso
 este é um repositório teste
-para aprender como o git funciona
+para aprender como o git funciona 
+
+Fazendo modificação para inserir no Staged
